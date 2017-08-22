@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Todo List</string>
+    <string name="add_todo_str">Buat Todo</string>
+    <string name="app_title">Todo Saya</string>
+    <string name="title_hint">Judul</string>
+    <string name="description_hint">Deskripsi</string>
+    <string name="submit_hint">Tambahkan</string>
+    <string name="add_todo_title">Tambah Todo</string>
+</resources>
